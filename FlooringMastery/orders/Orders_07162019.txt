@@ -1,0 +1,21 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+210,Heller and Sons,ND,3.50,Cork,2850.00,2.00,4.00,5700.00,11400.00,598.50,17698.50
+211,Howell-Nicolas,MI,6.25,Parquet,475.00,3.25,4.25,1543.75,2018.75,222.66,3785.16
+212,Erdman Group,MN,7.00,Plank,1725.00,3.75,5.50,6468.75,9487.50,1116.94,17073.19
+213,Thiel LLC,NE,5.75,Frieze Carpet,1725.00,2.25,2.25,3881.25,3881.25,446.34,8208.84
+214,Orn Schumm and Bernier,WI,5.50,Ceramic Tile,2350.00,2.75,5.00,6462.50,11750.00,1001.69,19214.19
+215,Kshlerin-Ritchie,ND,3.50,Seamless Resin,3100.00,4.50,3.50,13950.00,10850.00,868.00,25668.00
+216,Buckridge Inc,NE,5.75,Seamless Resin,1975.00,4.50,3.50,8887.50,6912.50,908.50,16708.50
+217,Langosh Deckow and Lubowitz,WI,5.50,Shag Carpet,2725.00,2.25,2.00,6131.25,5450.00,636.97,12218.22
+218,Ondricka Brekke and Block,ND,3.50,Linoleum,2850.00,2.75,5.00,7837.50,14250.00,773.06,22860.56
+219,Altenwerth-Klein,IA,5.50,Subway Tile,1725.00,4.25,3.25,7331.25,5606.25,711.56,13649.06
+220,Stracke-O'Connell,ND,3.50,Parquet,1225.00,3.25,4.25,3981.25,5206.25,321.56,9509.06
+221,Herzog Group,SD,2.50,Slate,350.00,4.25,4.50,1487.50,1575.00,76.56,3139.06
+222,Kirlin Inc,NE,5.75,Linoleum,100.00,2.75,5.00,275.00,500.00,44.56,819.56
+223,Mante Turcotte and O'Keefe,IL,3.25,Marble,975.00,2.00,2.75,1950.00,2681.25,150.52,4781.77
+224,Gerhold Abernathy and Corkery,ND,3.50,Seamless Resin,2225.00,4.50,3.50,10012.50,7787.50,623.00,18423.00
+225,Johnson-Turner,NE,5.75,Ceramic Tile,1850.00,2.75,5.00,5087.50,9250.00,824.41,15161.91
+226,Ankunding Nitzsche and Ledner,MO,6.75,Seamless Resin,1975.00,4.50,3.50,8887.50,6912.50,1066.50,16866.50
+227,Kshlerin and Sons,ND,3.50,Plank,850.00,3.75,5.50,3187.50,4675.00,275.19,8137.69
+228,Breitenberg Hegmann and Purdy,SD,2.50,Sisal Carpet,850.00,2.50,3.25,2125.00,2762.50,122.19,5009.69
+229,Jacobi Windler and Champlin,IL,3.25,Sisal Carpet,2600.00,2.50,3.25,6500.00,8450.00,485.88,15435.88

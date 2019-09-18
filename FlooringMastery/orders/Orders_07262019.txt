@@ -1,0 +1,14 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+328,Schmidt Kassulke and Schulist,IA,5.50,Bamboo,2725.00,1.50,5.50,4087.50,14987.50,1049.13,20124.13
+329,Jaskolski and Sons,SD,2.50,Frieze Carpet,2100.00,2.25,2.25,4725.00,4725.00,236.25,9686.25
+330,Lindgren Group,MO,6.75,Marble,225.00,2.00,2.75,450.00,618.75,72.14,1140.89
+331,Blick Inc,MO,6.75,Marble,2225.00,2.00,2.75,4450.00,6118.75,713.39,11282.14
+332,Buckridge Inc,NE,5.75,Slate,100.00,4.25,4.50,425.00,450.00,50.31,925.31
+333,Feeney Herman and Osinski,MI,6.25,Seamless Resin,350.00,4.50,3.50,1575.00,1225.00,175.00,2975.00
+334,Corkery-Turcotte,IL,3.25,Bamboo,850.00,1.50,5.50,1275.00,4675.00,193.38,6143.38
+335,Cummings-Wisoky,MO,6.75,Parquet,975.00,3.25,4.25,3168.75,4143.75,493.59,7806.09
+336,Morar Terry and Abernathy,IA,5.50,Slate,225.00,4.25,4.50,956.25,1012.50,108.28,2077.03
+337,Bechtelar-Konopelski,SD,2.50,Glass Tile,2475.00,2.25,3.25,5568.75,8043.75,340.31,13952.81
+338,Champlin Nienow and Murazik,MN,7.00,Plank,1350.00,3.75,5.50,5062.50,7425.00,874.13,13361.63
+339,Pfannerstill Gislason and Hackett,WI,5.50,Subway Tile,350.00,4.25,3.25,1487.50,1137.50,144.38,2769.38
+340,Oberbrunner Group,IA,5.50,Marble,850.00,2.00,2.75,1700.00,2337.50,222.06,4259.56

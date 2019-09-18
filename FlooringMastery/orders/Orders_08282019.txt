@@ -1,0 +1,18 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+566,Homenick-Luettgen,SD,2.50,Glass Tile,475.00,2.25,3.25,1068.75,1543.75,65.31,2677.81
+567,Daugherty Inc,SD,2.50,Shag Carpet,2975.00,2.25,2.00,6693.75,5950.00,316.09,12959.84
+568,Marvin-Stiedemann,NE,5.75,Seamless Resin,1725.00,4.50,3.50,7762.50,6037.50,793.50,14593.50
+569,Cummings-Wisoky,MO,6.75,Linoleum,2350.00,2.75,5.00,6462.50,11750.00,1229.34,19441.84
+570,Berge Schimmel and Botsford,MN,7.00,Ceramic Tile,1975.00,2.75,5.00,5431.25,9875.00,1071.44,16377.69
+571,Gislason Quigley and Kiehn,ND,3.50,Concrete,350.00,2.25,5.50,787.50,1925.00,94.94,2807.44
+572,Durgan-Wisoky,IL,3.25,Slate,475.00,4.25,4.50,2018.75,2137.50,135.08,4291.33
+573,Ernser-Fritsch,ND,3.50,Subway Tile,100.00,4.25,3.25,425.00,325.00,26.25,776.25
+574,Rempel and Sons,IA,5.50,Ceramic Tile,2975.00,2.75,5.00,8181.25,14875.00,1268.09,24324.34
+575,Schiller Gutkowski and Cruickshank,IA,5.50,Parquet,1350.00,3.25,4.25,4387.50,5737.50,556.88,10681.88
+576,Kautzer-Funk,MI,6.25,Concrete,1350.00,2.25,5.50,3037.50,7425.00,653.91,11116.41
+577,Lubowitz and Sons,WI,5.50,Seamless Resin,1975.00,4.50,3.50,8887.50,6912.50,869.00,16669.00
+578,Kihn-Lehner,MO,6.75,Sisal Carpet,1350.00,2.50,3.25,3375.00,4387.50,523.97,8286.47
+579,Leannon Skiles and Wuckert,MN,7.00,Linoleum,2225.00,2.75,5.00,6118.75,11125.00,1207.06,18450.81
+580,Von Boyle and Price,MO,6.75,Concrete,2225.00,2.25,5.50,5006.25,12237.50,1163.95,18407.70
+581,Connelly-Moen,ND,3.50,Seamless Resin,1725.00,4.50,3.50,7762.50,6037.50,483.00,14283.00
+582,Orn and Sons,MN,7.00,Sisal Carpet,2600.00,2.50,3.25,6500.00,8450.00,1046.50,15996.50

@@ -1,0 +1,24 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+1,Schulist Rogahn and Kilback,ND,3.50,Glass Tile,725.00,2.25,3.25,1631.25,2356.25,139.56,4127.06
+2,Huel Hegmann and McClure,NE,5.75,Seamless Resin,725.00,4.50,3.50,3262.50,2537.50,333.50,6133.50
+3,Greenfelder-Kub,ND,3.50,Parquet,475.00,3.25,4.25,1543.75,2018.75,124.69,3687.19
+4,Deckow Group,IL,3.25,Sisal Carpet,600.00,2.50,3.25,1500.00,1950.00,112.13,3562.13
+5,Schmidt Flatley and Emmerich,MI,6.25,Frieze Carpet,2975.00,2.25,2.25,6693.75,6693.75,836.72,14224.22
+6,Yost Blick and Greenfelder,MI,6.25,Bamboo,100.00,1.50,5.50,150.00,550.00,43.75,743.75
+7,Jacobs-Mante,WI,5.50,Bamboo,350.00,1.50,5.50,525.00,1925.00,134.75,2584.75
+8,Smith Group,SD,2.50,Plank,1975.00,3.75,5.50,7406.25,10862.50,456.72,18725.47
+9,Gislason Quigley and Kiehn,ND,3.50,Parquet,225.00,3.25,4.25,731.25,956.25,59.06,1746.56
+10,Kunde-Wilderman,IA,5.50,Slate,1850.00,4.25,4.50,7862.50,8325.00,890.31,17077.81
+11,Beer and Sons,SD,2.50,Plank,2350.00,3.75,5.50,8812.50,12925.00,543.44,22280.94
+12,Treutel Group,SD,2.50,Bamboo,475.00,1.50,5.50,712.50,2612.50,83.13,3408.13
+13,Brekke-Larkin,MN,7.00,Parquet,2975.00,3.25,4.25,9668.75,12643.75,1561.88,23874.38
+14,Padberg-Terry,SD,2.50,Bamboo,1475.00,1.50,5.50,2212.50,8112.50,258.13,10583.13
+15,Douglas Daniel and Lakin,MN,7.00,Ceramic Tile,2975.00,2.75,5.00,8181.25,14875.00,1613.94,24670.19
+16,Kling Ruecker and Quigley,NE,5.75,Linoleum,975.00,2.75,5.00,2681.25,4875.00,434.48,7990.73
+17,Schmitt Inc,MI,6.25,Frieze Carpet,1975.00,2.25,2.25,4443.75,4443.75,555.47,9442.97
+18,O'Keefe-Fahey,IA,5.50,Plank,600.00,3.75,5.50,2250.00,3300.00,305.25,5855.25
+19,Treutel-Feest,WI,5.50,Cork,350.00,2.00,4.00,700.00,1400.00,115.50,2215.50
+20,Daugherty Group,NE,5.75,Plank,350.00,3.75,5.50,1312.50,1925.00,186.16,3423.66
+21,Leannon-Okuneva,MO,6.75,Linoleum,1225.00,2.75,5.00,3368.75,6125.00,640.83,10134.58
+22,Collier Stokes and Herman,IA,5.50,Ceramic Tile,350.00,2.75,5.00,962.50,1750.00,149.19,2861.69
+23,Kirlin-Block,ND,3.50,Seamless Resin,2225.00,4.50,3.50,10012.50,7787.50,623.00,18423.00

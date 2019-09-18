@@ -1,0 +1,6 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+26,Steuber-O'Kon,MO,6.75,Frieze Carpet,2225.00,2.25,2.25,5006.25,5006.25,675.84,10688.34
+27,Wehner-Mertz,SD,2.50,Plank,3100.00,3.75,5.50,11625.00,17050.00,716.88,29391.88
+28,Brekke Parisian and Cummings,NE,5.75,Seamless Resin,350.00,4.50,3.50,1575.00,1225.00,161.00,2961.00
+29,Sporer-Zemlak,IA,5.50,Ceramic Tile,475.00,2.75,5.00,1306.25,2375.00,202.47,3883.72
+30,Ziemann-Schmidt,MO,6.75,Parquet,225.00,3.25,4.25,731.25,956.25,113.91,1801.41

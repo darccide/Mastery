@@ -1,0 +1,20 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+309,Ortiz Bauch and Hintz,WI,5.50,Bamboo,600.00,1.50,5.50,900.00,3300.00,231.00,4431.00
+310,Parisian and Sons,MI,6.25,Slate,600.00,4.25,4.50,2550.00,2700.00,328.13,5578.13
+311,Prohaska and Sons,MI,6.25,Plank,1975.00,3.75,5.50,7406.25,10862.50,1141.80,19410.55
+312,Fadel Bogisich and Willms,ND,3.50,Parquet,1975.00,3.25,4.25,6418.75,8393.75,518.44,15330.94
+313,Russel Sipes and Lindgren,MO,6.75,Parquet,2225.00,3.25,4.25,7231.25,9456.25,1126.41,17813.91
+314,Pfeffer Inc,IA,5.50,Slate,600.00,4.25,4.50,2550.00,2700.00,288.75,5538.75
+315,Schroeder Reilly and Bogisich,ND,3.50,Concrete,2725.00,2.25,5.50,6131.25,14987.50,739.16,21857.91
+316,Bergstrom Upton and Pollich,NE,5.75,Slate,1975.00,4.25,4.50,8393.75,8887.50,993.67,18274.92
+317,Sanford Adams and Hand,MN,7.00,Slate,1600.00,4.25,4.50,6800.00,7200.00,980.00,14980.00
+318,Parisian Group,MI,6.25,Concrete,850.00,2.25,5.50,1912.50,4675.00,411.72,6999.22
+319,Zulauf LLC,IL,3.25,Slate,2975.00,4.25,4.50,12643.75,13387.50,846.02,26877.27
+320,Treutel Group,SD,2.50,Shag Carpet,1225.00,2.25,2.00,2756.25,2450.00,130.16,5336.41
+321,Williamson-Mueller,WI,5.50,Sisal Carpet,350.00,2.50,3.25,875.00,1137.50,110.69,2123.19
+322,Kunde-Ritchie,NE,5.75,Marble,475.00,2.00,2.75,950.00,1306.25,129.73,2385.98
+323,Dibbert-Kemmer,SD,2.50,Ceramic Tile,225.00,2.75,5.00,618.75,1125.00,43.59,1787.34
+324,Pollich-Goyette,SD,2.50,Shag Carpet,600.00,2.25,2.00,1350.00,1200.00,63.75,2613.75
+325,Rohan LLC,IA,5.50,Shag Carpet,2600.00,2.25,2.00,5850.00,5200.00,607.75,11657.75
+326,Toy Inc,MI,6.25,Sisal Carpet,1100.00,2.50,3.25,2750.00,3575.00,395.31,6720.31
+327,Okuneva Gerlach and Crist,WI,5.50,Concrete,225.00,2.25,5.50,506.25,1237.50,95.91,1839.66

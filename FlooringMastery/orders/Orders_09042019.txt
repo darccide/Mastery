@@ -1,0 +1,15 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+637,Douglas Daniel and Lakin,MN,7.00,Glass Tile,1725.00,2.25,3.25,3881.25,5606.25,664.13,10151.63
+638,Bergnaum Boyer and Robel,MN,7.00,Marble,1975.00,2.00,2.75,3950.00,5431.25,656.69,10037.94
+639,Marquardt-Hamill,MI,6.25,Sisal Carpet,1475.00,2.50,3.25,3687.50,4793.75,530.08,9011.33
+640,Kris-Wisozk,IA,5.50,Plank,1475.00,3.75,5.50,5531.25,8112.50,750.41,14394.16
+641,Sporer LLC,WI,5.50,Seamless Resin,975.00,4.50,3.50,4387.50,3412.50,429.00,8229.00
+642,Breitenberg Hackett and Padberg,WI,5.50,Linoleum,850.00,2.75,5.00,2337.50,4250.00,362.31,6949.81
+643,Casper LLC,WI,5.50,Ceramic Tile,2975.00,2.75,5.00,8181.25,14875.00,1268.09,24324.34
+644,Robel LLC,WI,5.50,Slate,1475.00,4.25,4.50,6268.75,6637.50,709.84,13616.09
+645,Johnston LLC,SD,2.50,Shag Carpet,225.00,2.25,2.00,506.25,450.00,23.91,980.16
+646,Jakubowski and Sons,MO,6.75,Parquet,850.00,3.25,4.25,2762.50,3612.50,430.31,6805.31
+647,Considine-Stiedemann,SD,2.50,Parquet,2600.00,3.25,4.25,8450.00,11050.00,487.50,19987.50
+648,Kiehn Vandervort and Oberbrunner,WI,5.50,Parquet,2475.00,3.25,4.25,8043.75,10518.75,1020.94,19583.44
+649,Huel Hegmann and McClure,NE,5.75,Cork,225.00,2.00,4.00,450.00,900.00,77.63,1427.63
+650,Maggio LLC,MN,7.00,Ceramic Tile,2225.00,2.75,5.00,6118.75,11125.00,1207.06,18450.81

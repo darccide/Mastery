@@ -1,0 +1,10 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+409,Lowe-Mitchell,MO,6.75,Bamboo,1100.00,1.50,5.50,1650.00,6050.00,519.75,8219.75
+410,Harvey-Stracke,MI,6.25,Glass Tile,850.00,2.25,3.25,1912.50,2762.50,292.19,4967.19
+411,Ward LLC,SD,2.50,Shag Carpet,850.00,2.25,2.00,1912.50,1700.00,90.31,3702.81
+412,O'Kon LLC,SD,2.50,Subway Tile,2975.00,4.25,3.25,12643.75,9668.75,557.81,22870.31
+413,Wilderman Grant and Beier,IA,5.50,Bamboo,2475.00,1.50,5.50,3712.50,13612.50,952.88,18277.88
+414,Nader LLC,MO,6.75,Frieze Carpet,475.00,2.25,2.25,1068.75,1068.75,144.28,2281.78
+415,Pfannerstill-Turner,SD,2.50,Bamboo,1975.00,1.50,5.50,2962.50,10862.50,345.63,14170.63
+416,Spencer Spencer and Leuschke,MN,7.00,Glass Tile,600.00,2.25,3.25,1350.00,1950.00,231.00,3531.00
+417,Nicolas Group,WI,5.50,Frieze Carpet,2350.00,2.25,2.25,5287.50,5287.50,581.63,11156.63

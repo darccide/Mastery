@@ -1,0 +1,13 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+750,Ondricka-Satterfield,NE,5.75,Linoleum,2725.00,2.75,5.00,7493.75,13625.00,1214.33,22333.08
+751,Walter-Wilkinson,WI,5.50,Cork,100.00,2.00,4.00,200.00,400.00,33.00,633.00
+752,Pacocha and Sons,IA,5.50,Glass Tile,850.00,2.25,3.25,1912.50,2762.50,257.13,4932.13
+753,Baumbach-Davis,MI,6.25,Subway Tile,2975.00,4.25,3.25,12643.75,9668.75,1394.53,23707.03
+754,Littel-Willms,MI,6.25,Glass Tile,2225.00,2.25,3.25,5006.25,7231.25,764.84,13002.34
+755,Ward LLC,SD,2.50,Seamless Resin,225.00,4.50,3.50,1012.50,787.50,45.00,1845.00
+756,Williamson Inc,ND,3.50,Marble,1350.00,2.00,2.75,2700.00,3712.50,224.44,6636.94
+757,Effertz-Morar,ND,3.50,Parquet,100.00,3.25,4.25,325.00,425.00,26.25,776.25
+758,Von-Grant,WI,5.50,Parquet,2350.00,3.25,4.25,7637.50,9987.50,969.38,18594.38
+759,Gleichner-Hudson,MI,6.25,Linoleum,2725.00,2.75,5.00,7493.75,13625.00,1319.92,22438.67
+760,Mayert Inc,ND,3.50,Seamless Resin,1350.00,4.50,3.50,6075.00,4725.00,378.00,11178.00
+761,Green Schimmel and Swift,IA,5.50,Seamless Resin,2225.00,4.50,3.50,10012.50,7787.50,979.00,18779.00

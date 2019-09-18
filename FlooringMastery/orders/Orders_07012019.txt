@@ -1,0 +1,11 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+124,Nicolas-Wilkinson,MI,6.25,Bamboo,2350.00,1.50,5.50,3525.00,12925.00,1028.13,17478.13
+125,Waters-Hilpert,SD,2.50,Seamless Resin,225.00,4.50,3.50,1012.50,787.50,45.00,1845.00
+126,Kuphal-Swaniawski,MN,7.00,Bamboo,100.00,1.50,5.50,150.00,550.00,49.00,749.00
+127,Baumbach Kris and Dickinson,MI,6.25,Seamless Resin,1850.00,4.50,3.50,8325.00,6475.00,925.00,15725.00
+128,Brekke and Sons,MN,7.00,Shag Carpet,475.00,2.25,2.00,1068.75,950.00,141.31,2160.06
+129,Willms Monahan and Jast,IL,3.25,Cork,2475.00,2.00,4.00,4950.00,9900.00,482.63,15332.63
+130,Nicolas Fadel and Bogisich,WI,5.50,Linoleum,225.00,2.75,5.00,618.75,1125.00,95.91,1839.66
+131,Medhurst Kessler and Kohler,SD,2.50,Shag Carpet,1475.00,2.25,2.00,3318.75,2950.00,156.72,6425.47
+132,Rempel Krajcik and Lind,IA,5.50,Bamboo,2475.00,1.50,5.50,3712.50,13612.50,952.88,18277.88
+133,Hintz-Feeney,IA,5.50,Bamboo,2100.00,1.50,5.50,3150.00,11550.00,808.50,15508.50

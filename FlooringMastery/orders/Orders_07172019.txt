@@ -1,0 +1,20 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+230,Stokes Inc,MI,6.25,Concrete,1475.00,2.25,5.50,3318.75,8112.50,714.45,12145.70
+231,Berge Schimmel and Botsford,MN,7.00,Plank,1725.00,3.75,5.50,6468.75,9487.50,1116.94,17073.19
+232,Hammes LLC,IL,3.25,Cork,475.00,2.00,4.00,950.00,1900.00,92.63,2942.63
+233,Heller and Sons,IA,5.50,Glass Tile,100.00,2.25,3.25,225.00,325.00,30.25,580.25
+234,Pollich-Goyette,SD,2.50,Concrete,725.00,2.25,5.50,1631.25,3987.50,140.47,5759.22
+235,Walker LLC,MN,7.00,Seamless Resin,1725.00,4.50,3.50,7762.50,6037.50,966.00,14766.00
+236,Eichmann McCullough and Shanahan,NE,5.75,Frieze Carpet,2975.00,2.25,2.25,6693.75,6693.75,769.78,14157.28
+237,Smitham Ondricka and Rosenbaum,ND,3.50,Frieze Carpet,850.00,2.25,2.25,1912.50,1912.50,133.88,3958.88
+238,Schuppe Group,MN,7.00,Bamboo,350.00,1.50,5.50,525.00,1925.00,171.50,2621.50
+239,Herzog-Mayert,IA,5.50,Bamboo,2350.00,1.50,5.50,3525.00,12925.00,904.75,17354.75
+240,Champlin-Stracke,IA,5.50,Plank,2475.00,3.75,5.50,9281.25,13612.50,1259.16,24152.91
+241,O'Conner Group,ND,3.50,Bamboo,1350.00,1.50,5.50,2025.00,7425.00,330.75,9780.75
+242,Larson Will and Wuckert,SD,2.50,Bamboo,1350.00,1.50,5.50,2025.00,7425.00,236.25,9686.25
+243,Bernhard-Dooley,MO,6.75,Slate,850.00,4.25,4.50,3612.50,3825.00,502.03,7939.53
+244,Jacobi and Sons,NE,5.75,Linoleum,100.00,2.75,5.00,275.00,500.00,44.56,819.56
+245,Hahn and Sons,IA,5.50,Ceramic Tile,3100.00,2.75,5.00,8525.00,15500.00,1321.38,25346.38
+246,Purdy Gleason and Waters,MN,7.00,Glass Tile,1975.00,2.25,3.25,4443.75,6418.75,760.38,11622.88
+247,Yost and Sons,IL,3.25,Concrete,1350.00,2.25,5.50,3037.50,7425.00,340.03,10802.53
+248,Orn and Sons,MN,7.00,Marble,100.00,2.00,2.75,200.00,275.00,33.25,508.25

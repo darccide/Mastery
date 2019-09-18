@@ -1,0 +1,6 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+186,Schulist Rogahn and Kilback,ND,3.50,Glass Tile,1225.00,2.25,3.25,2756.25,3981.25,235.81,6973.31
+187,Heathcote Senger and Abernathy,SD,2.50,Sisal Carpet,2600.00,2.50,3.25,6500.00,8450.00,373.75,15323.75
+188,Nitzsche Nikolaus and Towne,IA,5.50,Plank,2975.00,3.75,5.50,11156.25,16362.50,1513.53,29032.28
+189,Huels Roberts and Adams,NE,5.75,Frieze Carpet,850.00,2.25,2.25,1912.50,1912.50,219.94,4044.94
+190,Jaskolski LLC,NE,5.75,Glass Tile,725.00,2.25,3.25,1631.25,2356.25,229.28,4216.78

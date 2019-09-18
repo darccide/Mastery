@@ -1,0 +1,12 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+175,Dicki Kovacek and Kutch,IL,3.25,Cork,2600.00,2.00,4.00,5200.00,10400.00,507.00,16107.00
+176,Stokes Bechtelar and Towne,ND,3.50,Ceramic Tile,350.00,2.75,5.00,962.50,1750.00,94.94,2807.44
+177,Beatty Inc,WI,5.50,Slate,2350.00,4.25,4.50,9987.50,10575.00,1130.94,21693.44
+178,Kuhic Blick and Lubowitz,SD,2.50,Bamboo,1350.00,1.50,5.50,2025.00,7425.00,236.25,9686.25
+179,Runte Rowe and Nikolaus,WI,5.50,Cork,2475.00,2.00,4.00,4950.00,9900.00,816.75,15666.75
+180,Crona Gulgowski and Legros,NE,5.75,Bamboo,2350.00,1.50,5.50,3525.00,12925.00,945.88,17395.88
+181,Schroeder Reilly and Bogisich,ND,3.50,Bamboo,1725.00,1.50,5.50,2587.50,9487.50,422.63,12497.63
+182,Dach and Sons,ND,3.50,Concrete,1350.00,2.25,5.50,3037.50,7425.00,366.19,10828.69
+183,Purdy O'Kon and Bauch,IA,5.50,Sisal Carpet,1475.00,2.50,3.25,3687.50,4793.75,466.47,8947.72
+184,Rutherford Inc,WI,5.50,Shag Carpet,2225.00,2.25,2.00,5006.25,4450.00,520.09,9976.34
+185,Lebsack Parker and Yost,SD,2.50,Plank,2850.00,3.75,5.50,10687.50,15675.00,659.06,27021.56

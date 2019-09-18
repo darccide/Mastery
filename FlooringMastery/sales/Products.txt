@@ -1,0 +1,16 @@
+ProductType,CostPerSquareFoot,LaborCostPerSquareFoot
+Shag Carpet,2.25,2.00
+Plank,3.75,5.50
+Parquet,3.25,4.25
+Linoleum,2.75,5.00
+Cork,2.00,4.00
+Frieze Carpet,2.25,2.25
+Marble,2.00,2.75
+Sisal Carpet,2.50,3.25
+Slate,4.25,4.50
+Bamboo,1.50,5.50
+Ceramic Tile,2.75,5.00
+Subway Tile,4.25,3.25
+Seamless Resin,4.50,3.50
+Glass Tile,2.25,3.25
+Concrete,2.25,5.50

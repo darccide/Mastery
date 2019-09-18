@@ -1,0 +1,15 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+295,Ernser-Fritsch,ND,3.50,Seamless Resin,1600.00,4.50,3.50,7200.00,5600.00,448.00,13248.00
+296,Willms Monahan and Jast,IL,3.25,Shag Carpet,2350.00,2.25,2.00,5287.50,4700.00,324.59,10312.09
+297,Kunze-Heathcote,NE,5.75,Shag Carpet,3100.00,2.25,2.00,6975.00,6200.00,757.56,13932.56
+298,Dicki-Wolff,WI,5.50,Cork,600.00,2.00,4.00,1200.00,2400.00,198.00,3798.00
+299,Schmidt Kassulke and Schulist,IA,5.50,Glass Tile,475.00,2.25,3.25,1068.75,1543.75,143.69,2756.19
+300,Medhurst Conn and Brown,NE,5.75,Seamless Resin,3100.00,4.50,3.50,13950.00,10850.00,1426.00,26226.00
+301,Kub-Dicki,WI,5.50,Slate,475.00,4.25,4.50,2018.75,2137.50,228.59,4384.84
+302,Hahn and Sons,IA,5.50,Linoleum,2975.00,2.75,5.00,8181.25,14875.00,1268.09,24324.34
+303,Hagenes-Marquardt,MI,6.25,Marble,1725.00,2.00,2.75,3450.00,4743.75,512.11,8705.86
+304,Nitzsche Nikolaus and Towne,IA,5.50,Frieze Carpet,1725.00,2.25,2.25,3881.25,3881.25,426.94,8189.44
+305,Harris-Heller,WI,5.50,Marble,1100.00,2.00,2.75,2200.00,3025.00,287.38,5512.38
+306,Hills Lebsack and Koepp,IL,3.25,Marble,2975.00,2.00,2.75,5950.00,8181.25,459.27,14590.52
+307,Douglas-Jenkins,WI,5.50,Seamless Resin,350.00,4.50,3.50,1575.00,1225.00,154.00,2954.00
+308,McClure LLC,MI,6.25,Glass Tile,1850.00,2.25,3.25,4162.50,6012.50,635.94,10810.94

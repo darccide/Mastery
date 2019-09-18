@@ -1,0 +1,15 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+552,Nitzsche Sauer and Marquardt,IL,3.25,Parquet,1100.00,3.25,4.25,3575.00,4675.00,268.13,8518.13
+553,Pacocha-Keebler,IL,3.25,Seamless Resin,2725.00,4.50,3.50,12262.50,9537.50,708.50,22508.50
+554,Wilderman Ledner and Schuster,NE,5.75,Subway Tile,1600.00,4.25,3.25,6800.00,5200.00,690.00,12690.00
+555,Kulas-Howe,NE,5.75,Plank,1850.00,3.75,5.50,6937.50,10175.00,983.97,18096.47
+556,Ankunding Nitzsche and Ledner,MO,6.75,Frieze Carpet,1350.00,2.25,2.25,3037.50,3037.50,410.06,6485.06
+557,Reinger-Lynch,SD,2.50,Linoleum,2100.00,2.75,5.00,5775.00,10500.00,406.88,16681.88
+558,Johnston Dickinson and Schroeder,IA,5.50,Slate,2975.00,4.25,4.50,12643.75,13387.50,1431.72,27462.97
+559,Marks Cruickshank and McGlynn,NE,5.75,Plank,2350.00,3.75,5.50,8812.50,12925.00,1249.91,22987.41
+560,Breitenberg Inc,ND,3.50,Frieze Carpet,1600.00,2.25,2.25,3600.00,3600.00,252.00,7452.00
+561,Lubowitz-Considine,IA,5.50,Marble,1225.00,2.00,2.75,2450.00,3368.75,320.03,6138.78
+562,Kub-Dicki,WI,5.50,Sisal Carpet,3100.00,2.50,3.25,7750.00,10075.00,980.38,18805.38
+563,Von Swift and Wolff,NE,5.75,Subway Tile,1350.00,4.25,3.25,5737.50,4387.50,582.19,10707.19
+564,Batz LLC,SD,2.50,Subway Tile,1475.00,4.25,3.25,6268.75,4793.75,276.56,11339.06
+565,MacGyver Quitzon and Zieme,MI,6.25,Ceramic Tile,1350.00,2.75,5.00,3712.50,6750.00,653.91,11116.41

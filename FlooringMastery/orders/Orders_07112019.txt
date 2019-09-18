@@ -1,0 +1,3 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+191,Robel LLC,WI,5.50,Concrete,2475.00,2.25,5.50,5568.75,13612.50,1054.97,20236.22
+192,Schimmel Group,MN,7.00,Sisal Carpet,2225.00,2.50,3.25,5562.50,7231.25,895.56,13689.31

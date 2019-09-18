@@ -1,0 +1,19 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+732,Wunsch Williamson and Berge,SD,2.50,Parquet,225.00,3.25,4.25,731.25,956.25,42.19,1729.69
+733,Balistreri Okuneva and Walsh,IL,3.25,Ceramic Tile,475.00,2.75,5.00,1306.25,2375.00,119.64,3800.89
+734,Oberbrunner Group,IA,5.50,Subway Tile,1975.00,4.25,3.25,8393.75,6418.75,814.69,15627.19
+735,Kilback Group,SD,2.50,Subway Tile,2100.00,4.25,3.25,8925.00,6825.00,393.75,16143.75
+736,Considine-Stiedemann,SD,2.50,Glass Tile,1350.00,2.25,3.25,3037.50,4387.50,185.63,7610.63
+737,Tromp-Block,SD,2.50,Ceramic Tile,2725.00,2.75,5.00,7493.75,13625.00,527.97,21646.72
+738,Cummings LLC,MI,6.25,Marble,350.00,2.00,2.75,700.00,962.50,103.91,1766.41
+739,Sporer-Zemlak,IA,5.50,Plank,600.00,3.75,5.50,2250.00,3300.00,305.25,5855.25
+740,Schmeler-Bradtke,NE,5.75,Subway Tile,1350.00,4.25,3.25,5737.50,4387.50,582.19,10707.19
+741,Boyle Huels and Schmitt,MI,6.25,Seamless Resin,1350.00,4.50,3.50,6075.00,4725.00,675.00,11475.00
+742,Kovacek McClure and Mann,IL,3.25,Shag Carpet,1600.00,2.25,2.00,3600.00,3200.00,221.00,7021.00
+743,Hegmann-Grant,SD,2.50,Marble,975.00,2.00,2.75,1950.00,2681.25,115.78,4747.03
+744,Romaguera LLC,NE,5.75,Glass Tile,1475.00,2.25,3.25,3318.75,4793.75,466.47,8578.97
+745,Nitzsche Nikolaus and Towne,IA,5.50,Bamboo,1100.00,1.50,5.50,1650.00,6050.00,423.50,8123.50
+746,Parisian Group,MI,6.25,Seamless Resin,2225.00,4.50,3.50,10012.50,7787.50,1112.50,18912.50
+747,Blick Koelpin and Kub,SD,2.50,Subway Tile,1725.00,4.25,3.25,7331.25,5606.25,323.44,13260.94
+748,Kuphal-Marks,IL,3.25,Concrete,2850.00,2.25,5.50,6412.50,15675.00,717.84,22805.34
+749,Feil Will and Crist,SD,2.50,Marble,1350.00,2.00,2.75,2700.00,3712.50,160.31,6572.81

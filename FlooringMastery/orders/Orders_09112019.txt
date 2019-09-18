@@ -1,0 +1,25 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+708,Mayert-Conn,MN,7.00,Cork,1225.00,2.00,4.00,2450.00,4900.00,514.50,7864.50
+709,Langosh-Johnston,IL,3.25,Ceramic Tile,975.00,2.75,5.00,2681.25,4875.00,245.58,7801.83
+710,Waelchi Inc,NE,5.75,Sisal Carpet,2350.00,2.50,3.25,5875.00,7637.50,776.97,14289.47
+711,Franecki and Sons,MN,7.00,Sisal Carpet,350.00,2.50,3.25,875.00,1137.50,140.88,2153.38
+712,Nitzsche Hansen and Stark,SD,2.50,Parquet,1225.00,3.25,4.25,3981.25,5206.25,229.69,9417.19
+713,Gaylord-Towne,ND,3.50,Cork,2850.00,2.00,4.00,5700.00,11400.00,598.50,17698.50
+714,Turcotte Harris and Pfeffer,MO,6.75,Cork,850.00,2.00,4.00,1700.00,3400.00,344.25,5444.25
+715,Vandervort-Jenkins,IL,3.25,Parquet,1350.00,3.25,4.25,4387.50,5737.50,329.06,10454.06
+716,Weimann and Sons,IL,3.25,Bamboo,1100.00,1.50,5.50,1650.00,6050.00,250.25,7950.25
+717,Rolfson Group,MO,6.75,Slate,1475.00,4.25,4.50,6268.75,6637.50,871.17,13777.42
+718,Feil-Kling,MN,7.00,Sisal Carpet,725.00,2.50,3.25,1812.50,2356.25,291.81,4460.56
+719,Koch Bartoletti and Leuschke,MN,7.00,Ceramic Tile,2475.00,2.75,5.00,6806.25,12375.00,1342.69,20523.94
+720,Sporer LLC,WI,5.50,Seamless Resin,225.00,4.50,3.50,1012.50,787.50,99.00,1899.00
+721,Bode Sanford and Olson,ND,3.50,Glass Tile,2600.00,2.25,3.25,5850.00,8450.00,500.50,14800.50
+722,Hodkiewicz-Ward,IA,5.50,Slate,2600.00,4.25,4.50,11050.00,11700.00,1251.25,24001.25
+723,Wunsch Williamson and Berge,SD,2.50,Concrete,2225.00,2.25,5.50,5006.25,12237.50,431.09,17674.84
+724,Steuber-Bode,ND,3.50,Sisal Carpet,100.00,2.50,3.25,250.00,325.00,20.13,595.13
+725,Huels Roberts and Adams,NE,5.75,Parquet,1475.00,3.25,4.25,4793.75,6268.75,636.09,11698.59
+726,Brekke-Pfeffer,IL,3.25,Frieze Carpet,975.00,2.25,2.25,2193.75,2193.75,142.59,4530.09
+727,Hyatt Haley and Shanahan,MI,6.25,Shag Carpet,1350.00,2.25,2.00,3037.50,2700.00,358.59,6096.09
+728,Jakubowski Group,SD,2.50,Shag Carpet,2975.00,2.25,2.00,6693.75,5950.00,316.09,12959.84
+729,Bartoletti and Sons,IL,3.25,Marble,2600.00,2.00,2.75,5200.00,7150.00,401.38,12751.38
+730,Osinski Group,ND,3.50,Parquet,975.00,3.25,4.25,3168.75,4143.75,255.94,7568.44
+731,Kohler Koelpin and Cummerata,MN,7.00,Glass Tile,100.00,2.25,3.25,225.00,325.00,38.50,588.50

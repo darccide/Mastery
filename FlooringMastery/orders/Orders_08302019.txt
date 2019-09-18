@@ -1,0 +1,19 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+599,Hyatt Haley and Shanahan,MI,6.25,Ceramic Tile,1350.00,2.75,5.00,3712.50,6750.00,653.91,11116.41
+600,West LLC,IL,3.25,Frieze Carpet,1600.00,2.25,2.25,3600.00,3600.00,234.00,7434.00
+601,Tromp Nader and Barton,IA,5.50,Marble,600.00,2.00,2.75,1200.00,1650.00,156.75,3006.75
+602,Gottlieb Dicki and Heller,ND,3.50,Subway Tile,2350.00,4.25,3.25,9987.50,7637.50,616.88,18241.88
+603,Hyatt Haley and Shanahan,MI,6.25,Shag Carpet,850.00,2.25,2.00,1912.50,1700.00,225.78,3838.28
+604,Crooks-O'Kon,IA,5.50,Ceramic Tile,1350.00,2.75,5.00,3712.50,6750.00,575.44,11037.94
+605,Morar Terry and Abernathy,IA,5.50,Subway Tile,850.00,4.25,3.25,3612.50,2762.50,350.63,6725.63
+606,Altenwerth-Hahn,MO,6.75,Plank,475.00,3.75,5.50,1781.25,2612.50,296.58,4690.33
+607,Ondricka Brekke and Block,ND,3.50,Slate,850.00,4.25,4.50,3612.50,3825.00,260.31,7697.81
+608,Cole Cummerata and Weber,WI,5.50,Subway Tile,600.00,4.25,3.25,2550.00,1950.00,247.50,4747.50
+609,Mueller and Sons,ND,3.50,Sisal Carpet,2350.00,2.50,3.25,5875.00,7637.50,472.94,13985.44
+610,Moore-Collier,IA,5.50,Sisal Carpet,1225.00,2.50,3.25,3062.50,3981.25,387.41,7431.16
+611,Leannon-Casper,ND,3.50,Glass Tile,2100.00,2.25,3.25,4725.00,6825.00,404.25,11954.25
+612,Abshire Inc,WI,5.50,Plank,350.00,3.75,5.50,1312.50,1925.00,178.06,3415.56
+613,Reichel Lakin and Dietrich,IA,5.50,Plank,1225.00,3.75,5.50,4593.75,6737.50,623.22,11954.47
+614,Oberbrunner Cruickshank and Pouros,NE,5.75,Plank,1975.00,3.75,5.50,7406.25,10862.50,1050.45,19319.20
+615,Lubowitz Inc,NE,5.75,Frieze Carpet,1850.00,2.25,2.25,4162.50,4162.50,478.69,8803.69
+616,Erdman Littel and Orn,WI,5.50,Cork,2475.00,2.00,4.00,4950.00,9900.00,816.75,15666.75

@@ -1,0 +1,20 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+762,Lebsack-Abbott,WI,5.50,Parquet,1725.00,3.25,4.25,5606.25,7331.25,711.56,13649.06
+763,Ratke and Sons,IA,5.50,Cork,1600.00,2.00,4.00,3200.00,6400.00,528.00,10128.00
+764,Price-Steuber,MN,7.00,Shag Carpet,975.00,2.25,2.00,2193.75,1950.00,290.06,4433.81
+765,Bartoletti and Sons,IL,3.25,Ceramic Tile,850.00,2.75,5.00,2337.50,4250.00,214.09,6801.59
+766,Rosenbaum-Crooks,MN,7.00,Frieze Carpet,1475.00,2.25,2.25,3318.75,3318.75,464.63,7102.13
+767,Nitzsche Nikolaus and Towne,IA,5.50,Bamboo,100.00,1.50,5.50,150.00,550.00,38.50,738.50
+768,Tillman Group,MI,6.25,Marble,1225.00,2.00,2.75,2450.00,3368.75,363.67,6182.42
+769,Graham-Hansen,NE,5.75,Marble,975.00,2.00,2.75,1950.00,2681.25,266.30,4897.55
+770,Ziemann-Thompson,MN,7.00,Subway Tile,2975.00,4.25,3.25,12643.75,9668.75,1561.88,23874.38
+771,Balistreri Okuneva and Walsh,IL,3.25,Glass Tile,1725.00,2.25,3.25,3881.25,5606.25,308.34,9795.84
+772,Lind-Okuneva,IA,5.50,Seamless Resin,225.00,4.50,3.50,1012.50,787.50,99.00,1899.00
+773,Rogahn-McGlynn,IL,3.25,Linoleum,1725.00,2.75,5.00,4743.75,8625.00,434.48,13803.23
+774,Glover Kilback and Harris,IA,5.50,Subway Tile,600.00,4.25,3.25,2550.00,1950.00,247.50,4747.50
+775,Hoeger-Rippin,IL,3.25,Plank,1225.00,3.75,5.50,4593.75,6737.50,368.27,11699.52
+776,Berge Schimmel and Botsford,MN,7.00,Slate,1475.00,4.25,4.50,6268.75,6637.50,903.44,13809.69
+777,Willms Monahan and Jast,IL,3.25,Sisal Carpet,600.00,2.50,3.25,1500.00,1950.00,112.13,3562.13
+778,Schmidt Williamson and Lubowitz,IL,3.25,Shag Carpet,2975.00,2.25,2.00,6693.75,5950.00,410.92,13054.67
+779,Hessel Bosco and Grady,NE,5.75,Parquet,1850.00,3.25,4.25,6012.50,7862.50,797.81,14672.81
+780,Ritchie and Sons,SD,2.50,Slate,1975.00,4.25,4.50,8393.75,8887.50,432.03,17713.28

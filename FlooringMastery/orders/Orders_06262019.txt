@@ -1,0 +1,23 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+66,Sawayn Group,ND,3.50,Linoleum,2225.00,2.75,5.00,6118.75,11125.00,603.53,17847.28
+67,Von Boyle and Price,MO,6.75,Cork,2350.00,2.00,4.00,4700.00,9400.00,951.75,15051.75
+68,Schimmel Simonis and Howell,WI,5.50,Plank,600.00,3.75,5.50,2250.00,3300.00,305.25,5855.25
+69,Beatty Johns and Boyer,MI,6.25,Linoleum,2600.00,2.75,5.00,7150.00,13000.00,1259.38,21409.38
+70,Klein Kunze and Beatty,MO,6.75,Plank,100.00,3.75,5.50,375.00,550.00,62.44,987.44
+71,Christiansen and Sons,MO,6.75,Sisal Carpet,975.00,2.50,3.25,2437.50,3168.75,378.42,5984.67
+72,Abbott and Sons,MN,7.00,Subway Tile,350.00,4.25,3.25,1487.50,1137.50,183.75,2808.75
+73,Barrows-Cruickshank,ND,3.50,Plank,2850.00,3.75,5.50,10687.50,15675.00,922.69,27285.19
+74,Koch Bartoletti and Leuschke,MN,7.00,Bamboo,2350.00,1.50,5.50,3525.00,12925.00,1151.50,17601.50
+75,Cole Heaney and Senger,ND,3.50,Parquet,475.00,3.25,4.25,1543.75,2018.75,124.69,3687.19
+76,Rowe McLaughlin and Cronin,ND,3.50,Glass Tile,600.00,2.25,3.25,1350.00,1950.00,115.50,3415.50
+77,Abshire-Stehr,NE,5.75,Sisal Carpet,350.00,2.50,3.25,875.00,1137.50,115.72,2128.22
+78,Johnson Herman and Lindgren,IA,5.50,Linoleum,2350.00,2.75,5.00,6462.50,11750.00,1001.69,19214.19
+79,Langosh-Johnston,IL,3.25,Glass Tile,850.00,2.25,3.25,1912.50,2762.50,151.94,4826.94
+80,Harber-Metz,IL,3.25,Sisal Carpet,1225.00,2.50,3.25,3062.50,3981.25,228.92,7272.67
+81,Beatty-Grant,ND,3.50,Bamboo,1600.00,1.50,5.50,2400.00,8800.00,392.00,11592.00
+82,Gusikowski Group,MN,7.00,Concrete,2350.00,2.25,5.50,5287.50,12925.00,1274.88,19487.38
+83,Treutel Group,SD,2.50,Subway Tile,2475.00,4.25,3.25,10518.75,8043.75,464.06,19026.56
+84,Russel Sipes and Lindgren,MO,6.75,Linoleum,2600.00,2.75,5.00,7150.00,13000.00,1360.13,21510.13
+85,Crooks-Ritchie,MO,6.75,Seamless Resin,2100.00,4.50,3.50,9450.00,7350.00,1134.00,17934.00
+86,Volkman-Walsh,IA,5.50,Glass Tile,1850.00,2.25,3.25,4162.50,6012.50,559.63,10734.63
+87,Watsica-Durgan,ND,3.50,Parquet,225.00,3.25,4.25,731.25,956.25,59.06,1746.56

@@ -1,0 +1,11 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+134,Ankunding-Ziemann,MI,6.25,Shag Carpet,850.00,2.25,2.00,1912.50,1700.00,225.78,3838.28
+135,Leannon-Casper,ND,3.50,Marble,2475.00,2.00,2.75,4950.00,6806.25,411.47,12167.72
+136,Kuphal Nader and Stamm,NE,5.75,Shag Carpet,350.00,2.25,2.00,787.50,700.00,85.53,1573.03
+137,Jacobson and Sons,MO,6.75,Ceramic Tile,2725.00,2.75,5.00,7493.75,13625.00,1425.52,22544.27
+138,Nitzsche Inc,ND,3.50,Linoleum,850.00,2.75,5.00,2337.50,4250.00,230.56,6818.06
+139,Carter LLC,SD,2.50,Ceramic Tile,2850.00,2.75,5.00,7837.50,14250.00,552.19,22639.69
+140,Marvin-Bednar,WI,5.50,Cork,1475.00,2.00,4.00,2950.00,5900.00,486.75,9336.75
+141,Gislason and Sons,SD,2.50,Slate,975.00,4.25,4.50,4143.75,4387.50,213.28,8744.53
+142,Boyle-Smith,MN,7.00,Seamless Resin,1100.00,4.50,3.50,4950.00,3850.00,616.00,9416.00
+143,Hegmann-Grant,SD,2.50,Slate,1600.00,4.25,4.50,6800.00,7200.00,350.00,14350.00

@@ -1,0 +1,13 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+651,Romaguera LLC,NE,5.75,Subway Tile,225.00,4.25,3.25,956.25,731.25,97.03,1784.53
+652,Beahan-Kessler,MO,6.75,Cork,100.00,2.00,4.00,200.00,400.00,40.50,640.50
+653,Okuneva Gerlach and Crist,WI,5.50,Cork,2850.00,2.00,4.00,5700.00,11400.00,940.50,18040.50
+654,Treutel-Feest,WI,5.50,Plank,1475.00,3.75,5.50,5531.25,8112.50,750.41,14394.16
+655,Leannon-Quigley,MI,6.25,Concrete,850.00,2.25,5.50,1912.50,4675.00,411.72,6999.22
+656,Schimmel-Gleason,MI,6.25,Linoleum,3100.00,2.75,5.00,8525.00,15500.00,1501.56,25526.56
+657,Stroman LLC,MI,6.25,Frieze Carpet,350.00,2.25,2.25,787.50,787.50,98.44,1673.44
+658,Ratke and Sons,IA,5.50,Glass Tile,1725.00,2.25,3.25,3881.25,5606.25,521.81,10009.31
+659,Wilderman Boyer and Baumbach,WI,5.50,Marble,2100.00,2.00,2.75,4200.00,5775.00,548.63,10523.63
+660,Hessel Bosco and Grady,NE,5.75,Seamless Resin,1100.00,4.50,3.50,4950.00,3850.00,506.00,9306.00
+661,Kuhn-Stracke,MO,6.75,Marble,3100.00,2.00,2.75,6200.00,8525.00,993.94,15718.94
+662,Bode Sanford and Olson,ND,3.50,Parquet,2850.00,3.25,4.25,9262.50,12112.50,748.13,22123.13

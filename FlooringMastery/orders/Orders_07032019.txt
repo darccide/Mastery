@@ -1,0 +1,13 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+144,Dare Inc,MI,6.25,Frieze Carpet,2350.00,2.25,2.25,5287.50,5287.50,660.94,11235.94
+145,Bruen-Daugherty,MO,6.75,Parquet,850.00,3.25,4.25,2762.50,3612.50,430.31,6805.31
+146,Luettgen-West,IL,3.25,Sisal Carpet,475.00,2.50,3.25,1187.50,1543.75,88.77,2820.02
+147,Parisian Group,MI,6.25,Bamboo,2475.00,1.50,5.50,3712.50,13612.50,1082.81,18407.81
+148,Runolfsson-Effertz,MN,7.00,Cork,850.00,2.00,4.00,1700.00,3400.00,357.00,5457.00
+149,Weissnat Blanda and Schiller,ND,3.50,Marble,1975.00,2.00,2.75,3950.00,5431.25,328.34,9709.59
+150,Lynch Willms and Braun,SD,2.50,Subway Tile,1850.00,4.25,3.25,7862.50,6012.50,346.88,14221.88
+151,Schmeler Quitzon and Pfeffer,WI,5.50,Plank,2475.00,3.75,5.50,9281.25,13612.50,1259.16,24152.91
+152,Kautzer-O'Connell,ND,3.50,Ceramic Tile,100.00,2.75,5.00,275.00,500.00,27.13,802.13
+153,Rohan LLC,IA,5.50,Seamless Resin,225.00,4.50,3.50,1012.50,787.50,99.00,1899.00
+154,Lebsack Parker and Yost,SD,2.50,Ceramic Tile,725.00,2.75,5.00,1993.75,3625.00,140.47,5759.22
+155,Waters LLC,MI,6.25,Bamboo,2850.00,1.50,5.50,4275.00,15675.00,1246.88,21196.88

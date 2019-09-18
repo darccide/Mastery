@@ -1,0 +1,17 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+583,Corkery-Turcotte,IL,3.25,Bamboo,2475.00,1.50,5.50,3712.50,13612.50,563.06,17888.06
+584,Reilly Inc,IL,3.25,Glass Tile,2725.00,2.25,3.25,6131.25,8856.25,487.09,15474.59
+585,Will Inc,MN,7.00,Glass Tile,2225.00,2.25,3.25,5006.25,7231.25,856.63,13094.13
+586,Kuhn-Koss,SD,2.50,Slate,225.00,4.25,4.50,956.25,1012.50,49.22,2017.97
+587,Lubowitz Inc,NE,5.75,Cork,1850.00,2.00,4.00,3700.00,7400.00,638.25,11738.25
+588,Corkery-Turcotte,IL,3.25,Marble,475.00,2.00,2.75,950.00,1306.25,73.33,2329.58
+589,Blick Gutkowski and Gleichner,SD,2.50,Ceramic Tile,3100.00,2.75,5.00,8525.00,15500.00,600.63,24625.63
+590,Willms Monahan and Jast,IL,3.25,Concrete,725.00,2.25,5.50,1631.25,3987.50,182.61,5801.36
+591,Sawayn-Mertz,IA,5.50,Ceramic Tile,1600.00,2.75,5.00,4400.00,8000.00,682.00,13082.00
+592,Gislason Quigley and Kiehn,ND,3.50,Parquet,2100.00,3.25,4.25,6825.00,8925.00,551.25,16301.25
+593,Schumm-Beier,ND,3.50,Shag Carpet,1350.00,2.25,2.00,3037.50,2700.00,200.81,5938.31
+594,Runte Smitham and Little,MO,6.75,Marble,2100.00,2.00,2.75,4200.00,5775.00,673.31,10648.31
+595,Abshire-Stehr,NE,5.75,Seamless Resin,2850.00,4.50,3.50,12825.00,9975.00,1311.00,24111.00
+596,Green McClure and Lebsack,MI,6.25,Linoleum,1475.00,2.75,5.00,4056.25,7375.00,714.45,12145.70
+597,O'Conner Willms and Mohr,IL,3.25,Ceramic Tile,1100.00,2.75,5.00,3025.00,5500.00,277.06,8802.06
+598,Franecki Morar and Kutch,MI,6.25,Glass Tile,725.00,2.25,3.25,1631.25,2356.25,249.22,4236.72

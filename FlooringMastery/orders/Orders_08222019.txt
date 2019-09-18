@@ -1,0 +1,5 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+521,Lueilwitz Inc,MI,6.25,Marble,2600.00,2.00,2.75,5200.00,7150.00,771.88,13121.88
+522,Lueilwitz Inc,MI,6.25,Parquet,1225.00,3.25,4.25,3981.25,5206.25,574.22,9761.72
+523,Schultz VonRueden and Howell,MO,6.75,Bamboo,3100.00,1.50,5.50,4650.00,17050.00,1464.75,23164.75
+524,Kautzer-Funk,MI,6.25,Frieze Carpet,2225.00,2.25,2.25,5006.25,5006.25,625.78,10638.28

@@ -1,0 +1,9 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+379,Bechtelar-Schiller,IL,3.25,Concrete,475.00,2.25,5.50,1068.75,2612.50,119.64,3800.89
+380,Turcotte Harris and Pfeffer,MO,6.75,Slate,1100.00,4.25,4.50,4675.00,4950.00,649.69,10274.69
+381,Turcotte and Sons,SD,2.50,Concrete,1475.00,2.25,5.50,3318.75,8112.50,285.78,11717.03
+382,Lehner Osinski and Altenwerth,IL,3.25,Parquet,2350.00,3.25,4.25,7637.50,9987.50,572.81,18197.81
+383,Ernser-Fritsch,ND,3.50,Sisal Carpet,225.00,2.50,3.25,562.50,731.25,45.28,1339.03
+384,Rutherford Inc,WI,5.50,Frieze Carpet,2725.00,2.25,2.25,6131.25,6131.25,674.44,12936.94
+385,Hegmann Kemmer and Schumm,ND,3.50,Bamboo,1975.00,1.50,5.50,2962.50,10862.50,483.88,14308.88
+386,Borer Oberbrunner and Armstrong,ND,3.50,Marble,2975.00,2.00,2.75,5950.00,8181.25,494.59,14625.84

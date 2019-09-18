@@ -1,0 +1,14 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+193,Bechtelar-Konopelski,SD,2.50,Slate,2850.00,4.25,4.50,12112.50,12825.00,623.44,25560.94
+194,Bradtke-Carroll,MO,6.75,Frieze Carpet,2225.00,2.25,2.25,5006.25,5006.25,675.84,10688.34
+195,Pagac and Sons,SD,2.50,Bamboo,1100.00,1.50,5.50,1650.00,6050.00,192.50,7892.50
+196,Considine Group,NE,5.75,Shag Carpet,1975.00,2.25,2.00,4443.75,3950.00,482.64,8876.39
+197,Rippin Group,IL,3.25,Linoleum,2725.00,2.75,5.00,7493.75,13625.00,686.36,21805.11
+198,Parisian Group,ND,3.50,Frieze Carpet,1975.00,2.25,2.25,4443.75,4443.75,311.06,9198.56
+199,Baumbach-Davis,MI,6.25,Subway Tile,2600.00,4.25,3.25,11050.00,8450.00,1218.75,20718.75
+200,Marquardt-Little,MI,6.25,Glass Tile,725.00,2.25,3.25,1631.25,2356.25,249.22,4236.72
+201,Keeling-Emard,NE,5.75,Shag Carpet,2475.00,2.25,2.00,5568.75,4950.00,604.83,11123.58
+202,Moen Keebler and Doyle,SD,2.50,Parquet,2725.00,3.25,4.25,8856.25,11581.25,510.94,20948.44
+203,Von-Frami,SD,2.50,Bamboo,725.00,1.50,5.50,1087.50,3987.50,126.88,5201.88
+204,Abshire and Sons,WI,5.50,Concrete,1475.00,2.25,5.50,3318.75,8112.50,628.72,12059.97
+205,Runolfsson-Auer,SD,2.50,Shag Carpet,1350.00,2.25,2.00,3037.50,2700.00,143.44,5880.94

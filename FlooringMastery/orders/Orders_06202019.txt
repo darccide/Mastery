@@ -1,0 +1,4 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+31,Gottlieb Dicki and Heller,ND,3.50,Plank,2975.00,3.75,5.50,11156.25,16362.50,963.16,28481.91
+32,Feil-Kling,MN,7.00,Parquet,2725.00,3.25,4.25,8856.25,11581.25,1430.63,21868.13
+33,Dach-Berge,SD,2.50,Parquet,1100.00,3.25,4.25,3575.00,4675.00,206.25,8456.25

@@ -1,0 +1,16 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+451,Mayert-Conn,MN,7.00,Glass Tile,100.00,2.25,3.25,225.00,325.00,38.50,588.50
+452,Runolfsdottir Langosh and Waelchi,SD,2.50,Cork,100.00,2.00,4.00,200.00,400.00,15.00,615.00
+453,Ritchie Simonis and Friesen,WI,5.50,Concrete,1225.00,2.25,5.50,2756.25,6737.50,522.16,10015.91
+454,Hagenes-Lemke,MO,6.75,Cork,2350.00,2.00,4.00,4700.00,9400.00,951.75,15051.75
+455,Crooks-Ritchie,MO,6.75,Bamboo,3100.00,1.50,5.50,4650.00,17050.00,1464.75,23164.75
+456,Stanton LLC,ND,3.50,Ceramic Tile,475.00,2.75,5.00,1306.25,2375.00,128.84,3810.09
+457,Okuneva Gerlach and Crist,WI,5.50,Subway Tile,100.00,4.25,3.25,425.00,325.00,41.25,791.25
+458,Lebsack Parker and Yost,SD,2.50,Shag Carpet,1225.00,2.25,2.00,2756.25,2450.00,130.16,5336.41
+459,Batz LLC,SD,2.50,Concrete,1850.00,2.25,5.50,4162.50,10175.00,358.44,14695.94
+460,Rempel Krajcik and Lind,IA,5.50,Slate,2975.00,4.25,4.50,12643.75,13387.50,1431.72,27462.97
+461,Will Inc,MN,7.00,Seamless Resin,2725.00,4.50,3.50,12262.50,9537.50,1526.00,23326.00
+462,Shanahan Inc,MI,6.25,Linoleum,2600.00,2.75,5.00,7150.00,13000.00,1259.38,21409.38
+463,Adams-Fahey,IA,5.50,Frieze Carpet,1475.00,2.25,2.25,3318.75,3318.75,365.06,7002.56
+464,Thiel-Hoeger,ND,3.50,Concrete,225.00,2.25,5.50,506.25,1237.50,61.03,1804.78
+465,Sawayn Group,ND,3.50,Parquet,600.00,3.25,4.25,1950.00,2550.00,157.50,4657.50
